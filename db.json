@@ -83,6 +83,55 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-08-01",
+      "description": "none",
+      "category": "one",
+      "amount": 78,
+      "id": 13
+    },
+    {
+      "date": "2024-08-01",
+      "description": "none",
+      "category": "one",
+      "amount": 78,
+      "id": 14
+    },
+    {
+      "date": "2024-08-01",
+      "description": "none",
+      "category": "one",
+      "amount": 78,
+      "id": 15
+    },
+    {
+      "date": "2024-08-07",
+      "description": "none",
+      "category": "one",
+      "amount": 56,
+      "id": 16
+    },
+    {
+      "date": "2024-08-10",
+      "description": "good",
+      "category": "two",
+      "amount": 45,
+      "id": 17
+    },
+    {
+      "date": "2024-06-06",
+      "description": "sita",
+      "category": "sita",
+      "amount": 6,
+      "id": 18
+    },
+    {
+      "date": "2024-08-29",
+      "description": "sdfsgsfgsfgdfgdfgd",
+      "category": "dfgdfgdfgdfgdfg",
+      "amount": 1245234,
+      "id": 19
     }
   ]
 }
